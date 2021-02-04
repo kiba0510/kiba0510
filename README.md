@@ -1,12 +1,10 @@
 ### Hi there, I'm Julian
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow%20%40archbold__julian-blue)](https://twitter.com/archbold_julian)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/archbold_julian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farchbold_julian&screen_name=archbold_julian)
 
 ## I'm a student at Holberton School
 
-- 🌱 I’m currently learning Python, [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 🤣
+- 🌱 I’m currently learning Python, [<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
