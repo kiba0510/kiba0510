@@ -70,12 +70,6 @@ Saturday     5 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/kiba0510/kiba0510/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/archbold_julian
