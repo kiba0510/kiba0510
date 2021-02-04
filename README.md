@@ -36,9 +36,8 @@
 <br />
 <br />
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/archbold_julian
 [instagram]: https://instagram.com/julian0510
