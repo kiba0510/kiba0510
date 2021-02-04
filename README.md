@@ -34,7 +34,8 @@
   
 <!--START_SECTION:activity-->
 
-
+<!--END_SECTION:activity-->
+</details>
 
 [twitter]: https://twitter.com/archbold_julian
 [instagram]: https://instagram.com/julian0510
