@@ -4,7 +4,8 @@
 
 ## I'm a student at Holberton School
 
-- 🌱 I’m currently learning <img alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />, <img alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 🤣
+- 🌱 I’m currently learning <img alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
