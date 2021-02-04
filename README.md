@@ -1,6 +1,6 @@
 ### Hi there, I'm Julian
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/archbold_julian?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farchbold_julian&screen_name=archbold_julian)
+[![Twitter Follow](https://img.shields.io/twitter/follow/archbold_julian?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farchbold_julian&screen_name=archbold_julian)
 
 ## I'm a student at Holberton School
 
