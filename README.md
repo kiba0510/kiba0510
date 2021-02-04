@@ -30,6 +30,14 @@
 ---
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="archbold_julian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
