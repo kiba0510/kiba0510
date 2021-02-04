@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow%20%40archbold__julian-blue)](https://twitter.com/archbold_julian)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/archbold_julian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farchbold_julian&screen_name=archbold_julian)
 
 ## I'm a student at Holberton School
 
