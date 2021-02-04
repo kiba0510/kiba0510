@@ -37,13 +37,15 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 219 Contributions in the Year 2021
+> 🏆 226 Contributions in the Year 2021
  > 
-> 📦 674 Bytes Used in Github's Storage 
+> 📦 687 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
@@ -70,6 +72,44 @@ Saturday     5 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        6 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/kiba0510/kiba0510/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/archbold_julian
