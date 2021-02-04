@@ -45,8 +45,6 @@
  > 
 > 📦 674 Bytes Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 14 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
@@ -72,38 +70,6 @@ Saturday     5 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        6 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
 
 **Timeline**
 
