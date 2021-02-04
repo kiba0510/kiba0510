@@ -37,6 +37,79 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 219 Contributions in the Year 2021
+ > 
+> 📦 674 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+🌆 Daytime    188 commits    ████████████████░░░░░░░░░   66.9% 
+🌃 Evening    62 commits     █████░░░░░░░░░░░░░░░░░░░░   22.06% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       107 commits    █████████░░░░░░░░░░░░░░░░   38.08% 
+Tuesday      89 commits     ████████░░░░░░░░░░░░░░░░░   31.67% 
+Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        6 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/kiba0510/kiba0510/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/archbold_julian
