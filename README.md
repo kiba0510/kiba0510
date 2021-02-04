@@ -32,8 +32,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Julian_Archbold's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kiba0510&theme=react&show_icons=true&hide_border=true" />
-  <img alt="Julian_Archbold's Lenguage Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiba0510" />
+  <img align="left" alt="Julian_Archbold's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kiba0510?theme=react&show_icons=true&hide_border=true" />
+  <img alt="Julian_Archbold's Lenguage Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiba0510?theme=react&show_icons=true&hide_border=true" />
 
 </details>
 
