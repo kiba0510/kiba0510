@@ -33,7 +33,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="archbold_julian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kiba0510&theme=react&show_icons=true&hide_border=true" />
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiba0510)](https://github.com/kiba0510/github-readme-stats)
 </details>
 
 
